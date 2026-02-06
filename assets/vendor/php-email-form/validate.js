@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 
+=======
+/**
+* PHP Email Form Validation - v3.6
+* URL: https://bootstrapmade.com/php-email-form/
+* Author: BootstrapMade.com
+*/
+>>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 (function () {
   "use strict";
 
