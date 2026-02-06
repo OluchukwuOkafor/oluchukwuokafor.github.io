@@ -44,13 +44,6 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
-<<<<<<< HEAD
-
-=======
-/*--------------------------------------------------------------
-# Header
---------------------------------------------------------------*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 #header {
   transition: ease-in-out 0.3s;
   position: relative;
@@ -186,16 +179,6 @@ h6 {
   }
 }
 
-<<<<<<< HEAD
-
-=======
-/*--------------------------------------------------------------
-# Navigation Menu
---------------------------------------------------------------*/
-/**
-* Desktop Navigation 
-*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 .navbar {
   padding: 0;
   margin-top: 35px;
@@ -265,13 +248,6 @@ h6 {
   color: #fff;
 }
 
-<<<<<<< HEAD
-
-=======
-/**
-* Mobile Navigation 
-*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 .mobile-nav-toggle {
   color: #fff;
   font-size: 28px;
@@ -340,13 +316,6 @@ h6 {
   position: relative;
 }
 
-<<<<<<< HEAD
-
-=======
-/*--------------------------------------------------------------
-# Sections General
---------------------------------------------------------------*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 section {
   overflow: hidden;
   position: absolute;
@@ -411,13 +380,6 @@ section .container {
   color: #fff;
 }
 
-<<<<<<< HEAD
-
-=======
-/*--------------------------------------------------------------
-# About
---------------------------------------------------------------*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
@@ -450,13 +412,6 @@ section .container {
   margin-bottom: 0;
 }
 
-<<<<<<< HEAD
-
-=======
-/*--------------------------------------------------------------
-# Counts
---------------------------------------------------------------*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 .counts {
   padding: 70px 0 60px;
 }
@@ -496,13 +451,6 @@ section .container {
   font-size: 14px;
 }
 
-<<<<<<< HEAD
-
-=======
-/*--------------------------------------------------------------
-# Skills
---------------------------------------------------------------*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 .skills .progress {
   height: 60px;
   display: block;
@@ -536,13 +484,6 @@ section .container {
   background-color: #18d26e;
 }
 
-<<<<<<< HEAD
-
-=======
-/*--------------------------------------------------------------
-# Interests
---------------------------------------------------------------*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 .interests .icon-box {
   display: flex;
   align-items: center;
@@ -570,13 +511,6 @@ section .container {
   background: rgba(255, 255, 255, 0.12);
 }
 
-<<<<<<< HEAD
-
-=======
-/*--------------------------------------------------------------
-# Testimonials
---------------------------------------------------------------*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 .testimonials .testimonials-carousel,
 .testimonials .testimonials-slider {
   overflow: hidden;
@@ -655,13 +589,6 @@ section .container {
   background-color: #18d26e;
 }
 
-<<<<<<< HEAD
-
-=======
-/*--------------------------------------------------------------
-# Resume
---------------------------------------------------------------*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
@@ -720,13 +647,6 @@ section .container {
   border: 2px solid #18d26e;
 }
 
-<<<<<<< HEAD
-
-=======
-/*--------------------------------------------------------------
-# Services
---------------------------------------------------------------*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 .services .icon-box {
   text-align: center;
   background: rgba(204, 204, 204, 0.1);
@@ -804,13 +724,6 @@ section .container {
   color: #fff;
 }
 
-<<<<<<< HEAD
-
-=======
-/*--------------------------------------------------------------
-# Portfolio
---------------------------------------------------------------*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
@@ -966,13 +879,6 @@ section .container {
   right: 15px;
 }
 
-<<<<<<< HEAD
-
-=======
-/*--------------------------------------------------------------
-# Portfolio Details
---------------------------------------------------------------*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 .portfolio-details {
   padding-top: 40px;
   background: rgba(0, 0, 0, 0.8);
@@ -1042,13 +948,6 @@ section .container {
   background-color: #18d26e;
 }
 
-<<<<<<< HEAD
-
-=======
-/*--------------------------------------------------------------
-# Contact
---------------------------------------------------------------*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 .contact .info-box {
   color: #444444;
   padding: 20px;
@@ -1203,13 +1102,6 @@ section .container {
   }
 }
 
-<<<<<<< HEAD
-
-=======
-/*--------------------------------------------------------------
-# Credits
---------------------------------------------------------------*/
->>>>>>> cf7c4f2b58b3277f12a18b4c8ba0aea80ba805db
 .credits {
   position: fixed;
   right: 0;
